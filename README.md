@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-i am victor , i am 26 years old , brazilian
+i am victor , i am 26 years old , brazilian 
+
+
+
 
 
 
@@ -13,9 +16,15 @@ i am victor , i am 26 years old , brazilian
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ...I'm a multi-instrumentalist
 
+  
+  
+  
+  
+  
+  
+  
  
- 
- ![image](https://user-images.githubusercontent.com/127308883/224318589-3eac6d39-6a0c-4a0c-8094-c77865cd3049.png)
+ ![image](https://user-images.githubusercontent.com/127308883/224318589-3eac6d39-6a0c-4a0c-8094-c77865cd3049.png) 
 
  
  
