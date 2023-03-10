@@ -3,7 +3,7 @@
 
 i am victor , i am 26 years old , brazilian 
 
-
+![Alt ou título da imagem](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)
 
 
 - 🔭 I’m currently working on ...   I am currently working on my own
@@ -23,7 +23,8 @@ i am victor , i am 26 years old , brazilian
   
   
  
- ![image](https://user-images.githubusercontent.com/127308883/224318589-3eac6d39-6a0c-4a0c-8094-c77865cd3049.png) 
+ ![Alt ou título da imagem](https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif)
+ 
 
  
  
