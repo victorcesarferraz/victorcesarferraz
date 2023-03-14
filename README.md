@@ -1,19 +1,22 @@
  
- '### Hi there 👋
+ ## Hi there 👋
 
 i am victor , i am 26 years old , brazilian 
 
-![Alt ou título da imagem](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)
 
-
-- 🔭 I’m currently working on ...   I am currently working on my own
-- 🌱 I’m currently learning ...  I'm learning about many things front-end programmer and business investment
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... you can ask me what you want
-- 📫 How to reach me: ... there are two faster ways by whatsapp and instagram
-- 😄 Pronouns: ... he
-- ⚡ Fun fact: ...I'm a multi-instrumentalist
+<img width="48%" src ="https://github-readme-stats.vercel.app/api?username=victorcesarferraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcesarferraz&layout=compact&langs_count=16&theme=dracula">
+ </div>
+ 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Yayah-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
+ </div
+ 
+ 
+  <div> 
+  <a href="https://instagram.com/victor.ferraz.5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:victor.cesar.ferraz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
 
   
   
